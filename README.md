@@ -18,9 +18,6 @@
 <a href="https://linkedin.com/in/g-nushari-3547b3392" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Nushari" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-FFD93D?style=for-the-badge&logo=github&logoColor=black" />
-</a>
 <a href="mailto:gamachige1967@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
